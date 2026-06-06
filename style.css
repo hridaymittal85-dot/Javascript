@@ -1,1 +1,10 @@
-
+body{
+  padding: 25px;
+  background-color: 7FFF00;
+}
+title {
+	color:#00FFFF;
+}
+p {
+    color: #3399ff;
+}
